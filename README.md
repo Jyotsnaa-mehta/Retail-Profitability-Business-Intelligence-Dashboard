@@ -2,11 +2,11 @@
 
 An end-to-end **data analytics project** using **MySQL, SQL, DAX and Power BI** to analyze retail sales, profitability, discounts, regions, categories, and loss-making products.
 
-## 🎯 Objective
+**🎯 Objective**
 
 To identify **where the business is making money, where it is losing money, and how discounts and product performance affect profitability.**
 
-## 📊 Dashboard
+**📊 Dashboard**
 
 **Key KPIs:**
 
@@ -23,11 +23,9 @@ To identify **where the business is making money, where it is losing money, and 
 * Bottom Products by Profit
 * Interactive Region, Category & Discount filters
 
+<img width="1111" height="622" alt="Retail Profitability Dashboard" src="https://github.com/user-attachments/assets/79aedc52-1fb5-4d40-8f24-bc5163fa2d88">
 
-> 📌<img width="1111" height="622" alt="image" src="https://github.com/user-attachments/assets/79aedc52-1fb5-4d40-8f24-bc5163fa2d88" />
-
-
-## 🔍 Key Insights
+**🔍 Key Insights**
 
 * **Technology** generated the highest profit.
 * **Furniture** had comparatively weaker profitability.
@@ -35,14 +33,14 @@ To identify **where the business is making money, where it is losing money, and 
 * Some products generated **significant negative profit**.
 * Regional performance varied, showing why **profit should be analyzed alongside revenue**.
 
-## 🛠️ Tools
+**🛠️ Tools**
 
 **MySQL • SQL • Power BI • DAX • Data Cleaning • Data Analysis • Data Visualization**
 
-## 🔄 Workflow
+**🔄 Workflow**
 
 `Raw Data → Data Cleaning → SQL Analysis → DAX → Power BI → Business Insights`
 
-## 📌 Outcome
+**📌 Outcome**
 
 Built an interactive Power BI dashboard that transforms **~10,000 retail transactions** into actionable insights for profitability and business decision-making.
