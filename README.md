@@ -23,7 +23,9 @@ To identify **where the business is making money, where it is losing money, and 
 * Bottom Products by Profit
 * Interactive Region, Category & Discount filters
 
-> 📌 *Add your Power BI dashboard screenshot here.*
+
+> 📌<img width="1111" height="622" alt="image" src="https://github.com/user-attachments/assets/79aedc52-1fb5-4d40-8f24-bc5163fa2d88" />
+
 
 ## 🔍 Key Insights
 
